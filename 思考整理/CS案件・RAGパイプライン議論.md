@@ -1,6 +1,9 @@
 ---
 date: 2026-06-13
-tags: [thought, project/cs-agent-evolution]
+tags:
+  - thought
+  - project/cs-agent-evolution
+  - lx
 status: in-progress
 ---
 # テーマ：CS導入支援AIの「自己改善ループ」構築と現場での実効性確保
